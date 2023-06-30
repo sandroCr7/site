@@ -89,3 +89,8 @@ body {
     color:white;
     padding: 24px 0;
 }
+
+.cabecalho-lista-item a{
+    text-decoration: none; 
+    color: white;
+}
